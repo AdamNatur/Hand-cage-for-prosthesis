@@ -1,7 +1,7 @@
 # Hand-cage-for-prosthesis
 
 ## Introduction
-
+Now humankind has high level of medicine and technologies. It allows us creating artificial limbs, making life easier.
 
 ## Definition
 In this project I have developed a hand cage for already existing prosthetic hand. For designing I use CAD Solidworks, be more exact Add-Ins ScanTo3D for working with STL file. I convert STL model to "native" Solidworks surfaces. Using surface modelling tools, I divided useless parts and thickened it. After that I connected it to prosthetic socket using "Loft" tool. Final result represented below.
